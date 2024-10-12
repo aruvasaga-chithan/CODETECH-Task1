@@ -1,5 +1,5 @@
 **Name:** ARUVASAGA CHITHAN.A  
-**Company:** CODETECH IT SOLUTIONS  
+**Company:** CODTECH IT SOLUTIONS  
 **ID:** **CT08DS8858**  
 **Domain:** **CYBER SECURITY & ETHICAL HACKING**  
 **Duration:** **OCTOBER TO NOVEMBER 2024**  
@@ -22,4 +22,4 @@ This is a simple password strength checker created as part of my internship task
 - GitHub: [https://github.com/AruvasagaChithan](https://github.com/aruvasaga-chithan)
 
 ### Task Repository:
-[CodeTech IT Solutions Task Repository](https://github.com/aruvasaga-chithan/CODETECH-Task1)
+[CodeTech IT Solutions Task Repository](https://github.com/aruvasaga-chithan/CODTECH-Task1)
