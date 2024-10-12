@@ -19,7 +19,7 @@ This is a simple password strength checker created as part of my internship task
 
 ## Author:
 - **ARUVASAGA CHITHAN.A**
-- GitHub: [https://github.com/AruvasagaChithan](https://github.com/AruvasagaChithan)
+- GitHub: [https://github.com/AruvasagaChithan](https://github.com/aruvasaga-chithan)
 
 ### Task Repository:
 [CodeTech IT Solutions Task Repository](https://github.com/aruvasaga-chithan/CODETECH-Task1)
